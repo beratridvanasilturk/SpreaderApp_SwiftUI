@@ -4,8 +4,7 @@ Spreader sizin 1 kitap yerine 5 kitap bitirmenize olanak sağlar. Okuma hızın�
 
 "Kitapları Yakmaktan Daha Büyük Bir Suç Varsa O Da Onları Okumamaktır." Joseph Brodsky'in bu mottosuyla çıktığımız yolda okunmamış hiçbir kitap kalmasın istiyoruz.
 
-<img width="1197" alt="Ekran Resmi 2023-10-31 20 09 26" src="https://github.com/beratridvanasilturk/SpreaderApp/assets/99040236/23c49615-2f1f-4f89-99ac-6e5b622da46f">
-
+<img width="896" alt="Ekran Resmi 2023-11-06 19 56 04" src="https://github.com/beratridvanasilturk/SpreaderApp/assets/99040236/074286fa-c595-4bac-8347-8bafe5490fb0">
 
 e-Mail For Support: spreaderapp@gmail.com
 
